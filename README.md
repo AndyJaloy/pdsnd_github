@@ -18,10 +18,10 @@ In this project, The data used is provided by Motivate, a major bike share syste
 and we discover the usage patterns of bicycles.
 
 ### Files used
-
-chicago.csv : record of the city
-new_york_city.csv : record of the city
-washington.csv : record of the city
+Comma separated files used are as follows
+1. Chicago City Record: chicago.csv
+2. New York City Record: new_york_city.csv
+3. Washington City Record: washington.csv
 
 
 ### Credits
