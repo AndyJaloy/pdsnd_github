@@ -199,12 +199,12 @@ def user_stats(df,city):
 
 def display_data(df):
 
-    a = 1
+    y = 1
     while True:
         more_data = input('\nWould you like to see some more data? Enter yes or no.\n')
         if more_data.lower() == 'yes':
-            print(df[a:a+5])
-            a = a+5
+            print(df[y:y+5])
+            y = y+5
         else:
             break
 
