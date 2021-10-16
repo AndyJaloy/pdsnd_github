@@ -23,7 +23,7 @@ def get_filters():
     while True:
       city = input("\nWhich city would you like to filter by? New York City, Chicago or Washington?\n").lower().title()
       if city not in ('New York City', 'Chicago', 'Washington'):
-        print("Sorry, I didn't catch that. Try again.")
+        print("Sorry, Let's try that again.")
         continue
       else:
         break
